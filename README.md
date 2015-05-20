@@ -1,2 +1,2 @@
-# goopress
+# GooPress
 Free WordPress Search Engine Theme
